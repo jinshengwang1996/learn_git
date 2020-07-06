@@ -1,2 +1,2 @@
-print("hello world")
-print("py2.0.1")
+print("hello woerld")
+print("py2.0")
